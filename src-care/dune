@@ -2,4 +2,5 @@
  (name topkg_care)
  (public_name topkg.care)
  (libraries topkg opam-format cmdliner bos.setup)
+ (optional)
  (wrapped false))
